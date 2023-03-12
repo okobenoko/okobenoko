@@ -1,2 +1,3 @@
 -- This is my Project List
-# Project1: Website Remake
+# Project 1: Website Remake|Status: NF
+# Project 2: OC|Status: NF 
